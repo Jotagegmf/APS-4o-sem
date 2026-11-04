@@ -19,10 +19,11 @@ O sistema poderá apresentar:
 
 ### 👥 WHO (Quem?)
 **Equipe do projeto:**
-@jotageggmf
+[João Gabriel](https://github.com/Jotagegmf)
+[João Victor](https://github.com/joaovictorcode7)
 luanreis
-luccacavalcante
-jvmontalvao
+[Lucca Cavalcante](https://github.com/Lucca143)
+
 
 **Público-alvo:** estudantes e professores da UDF que enfrentam problemas estruturais, tecnológicos ou administrativos no dia a dia. A proposta também beneficia coordenação, TI, infraestrutura, secretaria e a administração da instituição.
 
