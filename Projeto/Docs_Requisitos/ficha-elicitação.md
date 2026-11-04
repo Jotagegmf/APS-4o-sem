@@ -3,7 +3,7 @@
 **Curso:** Engenharia de Software
 **Disciplina:** Análise e Projeto de Sistemas
 **Instituição:** UDF Centro Universitário
-**Grupo/integrantes:** João Gabriel | João Victor | Lucca Cavalcante | Luan Borges
+**Grupo/integrantes:** [João Gabriel](https://github.com/Jotagegmf) | [João Victor](https://github.com/joaovictorcode7) | [Lucca Cavalcante](https://github.com/Lucca143) | Luan Borges
 **Turma:** Engenharia de Software - D2 
 **Data:** 24/09/2026
 **Versão:** 1.0
