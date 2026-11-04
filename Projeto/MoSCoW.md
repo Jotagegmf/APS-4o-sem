@@ -13,10 +13,10 @@
 
 | Integrante | Nome |
 |---|---|
-| 1 |João Gabriel |
-| 2 |João Victor |
+| 1 |[João Gabriel](https://github.com/Jotagegmf) |
+| 2 |[João Victor](https://github.com/joaovictorcode7)|
 | 3 |Luan Borges |
-| 4 |Lucca Cavalcante |
+| 4 |[Lucca Cavalcante](https://github.com/Lucca143)|
 
 ---
 
