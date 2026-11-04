@@ -19,9 +19,9 @@ O sistema poderá apresentar:
 
 ### 👥 WHO (Quem?)
 **Equipe do projeto:**
-[João Gabriel](https://github.com/Jotagegmf)
-[João Victor](https://github.com/joaovictorcode7)
-luanreis
+[João Gabriel](https://github.com/Jotagegmf) |
+[João Victor](https://github.com/joaovictorcode7) |
+luanreis | 
 [Lucca Cavalcante](https://github.com/Lucca143)
 
 
